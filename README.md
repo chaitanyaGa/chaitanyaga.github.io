@@ -1,4 +1,4 @@
 # chaitanyaga.github.io
-Chaitanya's beutiful Projects
+Chaitanya's beautiful Projects
 
 https://chaitanyaga.github.io
